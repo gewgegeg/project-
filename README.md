@@ -5,9 +5,8 @@
 ## 3 Найдите «университеты», выше 5 этажа с известным годом постройки и вычислите средний prefix_code
 
 ## Исходные данные
-![image](https://user-images.githubusercontent.com/92515117/147056586-f09a7a73-4c2b-4c45-8d7a-58249522f44b.png)
 
-
+![image](out/imagen/741.png)
 
 ## Main
 ##Здесь произходит обработка данных
@@ -18,7 +17,7 @@
 
 По окончании этого этапа мы имеем следующее:
 
-![image](https://github.com/gewgegeg/project-/blob/main/out/imagen/%D0%91%D0%B5%D0%B7%D1%8B%D0%BC%D1%8F%D0%BD%D0%BD%D1%8B%D0%B9.png)
+![image](out/imagen/1235.png)
 
 ## Создание базы данных SQL
 
@@ -31,13 +30,11 @@
 
 Вывод:
 
-![image](https://user-images.githubusercontent.com/92515117/147228173-995ae393-6f19-42fc-b6b3-5c6eabfc37cd.png)
+![image](out/imagen/963.png)
 
-В
 По завершении этого этапа имеем гистограмму:
 
-![image](https://user-images.githubusercontent.com/92515117/147253732-0affcccd-cfc6-4081-95d5-1dffb9512544.png)
-
+![image](out/imagen/456png.png)
 ## Итог
 
 Была выполена работа по созданию программы посартировке домов по высоте и численности.
